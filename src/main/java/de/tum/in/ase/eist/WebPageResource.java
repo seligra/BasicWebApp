@@ -24,6 +24,5 @@ public class WebPageResource {
 		model.addAttribute("answer", answer);
 		return "answer";
 
-
 	}
 }
